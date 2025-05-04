@@ -1,4 +1,7 @@
 # klipper-backup 💾
+<p align="center">
+<a><img src="https://img.shields.io/github/last-commit/Bradford1040/KANE"></a>
+</p>
 
 Klipper backup script for manual or automated GitHub backups 
 
