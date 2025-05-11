@@ -1657,3 +1657,23 @@ branch 'devel-kane' set up to track 'origin/devel-kane'.
 
 Command {update_git_script} finished
 
+Running Command {update_git_script}...:
+[Lock] Acquired lock: /home/octo/config_backup/.script.lock
+
+[K[1;92m●[0m Checking for installed dependencies [1;92mDone![0m
+
+
+Klipper-Backup is up to date
+
+
+Branch: devel-kane in .env does not match the currently checked out branch of: devel-ben10.
+
+Switched to branch 'devel-kane'
+
+From https://github.com/Bradford1040/KANE
+ * branch            devel-kane -> FETCH_HEAD
+
+Already up to date.
+
+Skipping symbolic link: kane_data/config/KAMP
+

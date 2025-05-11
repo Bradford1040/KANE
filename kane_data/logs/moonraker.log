@@ -487,3 +487,10 @@ Pinned Commit: None
 2025-05-10 20:03:06,191 [application.py:log_request()] - 101 GET /websocket (10.0.0.190) [_TRUSTED_USER_] 1.26ms
 2025-05-10 20:03:06,191 [websockets.py:open()] - Websocket Opened: ID: 130691763220112, Proxied: False, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36, Host Name: rhino
 2025-05-10 20:03:06,207 [file_manager.py:get_file_list()] - Updating File List <config>...
+2025-05-10 20:16:01,103 [websockets.py:on_close()] - Websocket Closed: ID: 130691763220112 Close Code: None, Close Reason: None, Pong Time Elapsed: 4.91
+2025-05-10 20:16:01,129 [application.py:log_request()] - 101 GET /websocket (10.0.0.190) [_TRUSTED_USER_] 1.03ms
+2025-05-10 20:16:01,129 [websockets.py:open()] - Websocket Opened: ID: 130691763217552, Proxied: False, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36, Host Name: rhino
+2025-05-10 20:16:01,143 [file_manager.py:get_file_list()] - Updating File List <config>...
+2025-05-10 20:16:01,175 [application.py:log_request()] - 101 GET /websocket (10.0.0.190) [_TRUSTED_USER_] 0.48ms
+2025-05-10 20:16:01,175 [websockets.py:open()] - Websocket Opened: ID: 130691658663568, Proxied: False, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36, Host Name: rhino
+2025-05-10 20:16:01,178 [websockets.py:_handle_identify()] - Websocket 130691658663568 Client Identified - Name: mainsail, Version: 2.14.0, Type: web
